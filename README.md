@@ -28,7 +28,7 @@ Aspiring Data Analyst 🚀 | Passionate About Data Science 📊 | From India �
   
 - 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon).
   
-- 💬 Feel free to ask me about Python, SQL, Tableau, Power BI, Excel, or anything data-related!
+- 💬 Feel free to ask me about Python, SQL, Tableau, Power BI, Excel, or anything data-related! [here](https://github.com/SekharUppuluri/SekharUppuluri/issues)
   
 - 📫 I’m open to internship and job opportunities and collaboration on data-driven projects.
   
@@ -68,6 +68,7 @@ Aspiring Data Analyst 🚀 | Passionate About Data Science 📊 | From India �
    <img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/visual-studio-code-icon.png" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/mysql-icon.png" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
+    <img src="./Icons/postgresql-icon.png" alt="postgresql" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/power-bi-icon.png" alt="Power BI" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/microsoft-excel-icon.png" alt="Excel" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/tableau-icon.png" alt="Tableau" width="50" height="50" />
