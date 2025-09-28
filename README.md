@@ -28,12 +28,15 @@
       </p>
   -->
 
-- 🛠️ I’m currently working on building real-world projects to solve practical problems.  
-- 🌱 I’m diving deep into Tech to expand my skills.  
-- 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon).  
-- 💬 Feel free to ask me about anything! [here](https://github.com/SekharUppuluri/SekharUppuluri/issues)  
-- 📫 I’m open to internship and job opportunities and collaboration.  
-- ⚡ Fun fact: I once spent hours debugging... only to fix it by deleting one line. 😅
+- 🛠️ Building projects that solve practical problems — from beginner tools to real-world solutions.  
+- 🌱 Diving deep into tech to expand my skills every day.  
+- 👨‍💻 Sharing everything I build — check back often for new projects!  
+- 💬 Feel free to reach out if you’d like to chat or collaborate! [here](https://github.com/SekharUppuluri/SekharUppuluri/issues).  
+- 📫 Open to internship, job opportunities, and collaboration.  
+- ⚡ Fun fact: I once spent hours debugging... only to fix it by deleting *one* line. 😅
+  
+
+
 </div>
 
 <br/>
