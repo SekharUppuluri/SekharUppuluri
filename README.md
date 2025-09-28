@@ -1,20 +1,26 @@
+<!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SekharUppuluri.SekharUppuluri" />
 
+<!-- Animated Typing Header with Orange Color -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=FF5733&lines=Hi+There!+👋;+Hello,+Greetings+Data+Leaders!+🚀;+I'm+Sekhar+Uppuluri!;+Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&color=FF5733&lines=Hi+There!+👋;+I'm+Sekhar+Uppuluri!;+Aspiring+Developer+from+India+;+Welcome+to+My+GitHub+Profile!" />
 </h1>
 
-
+<!-- Static Tagline -->
 <h3 align="center">
-Aspiring Data Analyst 🚀 | Passionate About Data Science 📊 | From India 🇮🇳
+🎯&nbsp; Code.&nbsp; Solve.&nbsp; Learn.&nbsp; Repeat. 🔁 &nbsp;|&nbsp; 💡 Curious Mind in Tech &nbsp;|&nbsp; 🇮🇳 India-Based Developer
 </h3>
+
+<!-- Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Passionate%20about-Code-FF5733?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Passionate about Code Badge"/>
+</p>
 
 <br/>
 
 <div>
   <img align="right" alt="Working" width="403" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-  
-  <!-- 
+    <!-- 
       <p align="left">
         <a href="https://twitter.com/gvfghk" target="blank">
           <img src="https://img.shields.io/twitter/follow/gvfghk?logo=twitter&style=for-the-badge" alt="twitter" />
@@ -22,41 +28,52 @@ Aspiring Data Analyst 🚀 | Passionate About Data Science 📊 | From India �
       </p>
   -->
 
-- 🛠️ I’m currently working on building real-world data projects to solve practical problems.
-  
-- 🌱 I’m diving deep into Full Stack Java to expand my skills.
-  
-- 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon).
-  
-- 💬 Feel free to ask me about Python, SQL, Tableau, Power BI, Excel, or anything data-related! [here](https://github.com/SekharUppuluri/SekharUppuluri/issues)
-  
-- 📫 I’m open to internship and job opportunities and collaboration on data-driven projects.
-  
-- ⚡ Fun fact: I once used data to optimize the perfect coffee brew schedule!
+- 🛠️ I’m currently working on building real-world projects to solve practical problems.  
+- 🌱 I’m diving deep into Tech to expand my skills.  
+- 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon).  
+- 💬 Feel free to ask me about anything! [here](https://github.com/SekharUppuluri/SekharUppuluri/issues)  
+- 📫 I’m open to internship and job opportunities and collaboration.  
+- ⚡ Fun fact: I once spent hours debugging... only to fix it by deleting one line. 😅
+</div>
 
-    
-  </p>
-  
-<br>
+<br/>
 
+<!-- Contact Buttons -->
 <div align="center"> 
   <a href="mailto:sekharuppuluri3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
   </a>
-  <a href="comingsoon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/chandrasekharuppuluri/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://comingsoon.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  <a href="https://comingsoon.github.io" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" /> 
   </a>
 </div>
 
 <hr/>
 
+<!-- Tools Section -->
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🧑‍🏭</h2>
-<br/>
 
 <div align="center">
+
+<h3>🚧 Section Under Construction 🚧</h3>
+
+<img src="https://img.shields.io/badge/status-under--construction-FF5733?style=for-the-badge&logo=clock&logoColor=white" alt="Under Construction Badge" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Loading..." width="120" />
+
+<br/>
+
+<em>Icons and tools will be updated soon. Thanks for your patience! 🙏</em>
+
+<!-- Future icons can go here -->
+<!--
+<img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />
+-->
 <!-- 
     <img src="./Icons/html.png" alt="HTML" width="100" height="100" />
     <img src="./Icons/css.png" alt="CSS" width="100" height="100" />
@@ -65,6 +82,7 @@ Aspiring Data Analyst 🚀 | Passionate About Data Science 📊 | From India �
     <img src="./assets/git.png" alt="Git" width="100" height="100" />
     <img src="./assets/docker.png" alt="Docker" width="100" height="100" />
 --> 
+<!--
    <img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/visual-studio-code-icon.png" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/mysql-icon.png" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
@@ -72,16 +90,15 @@ Aspiring Data Analyst 🚀 | Passionate About Data Science 📊 | From India �
     <img src="./Icons/power-bi-icon.png" alt="Power BI" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/microsoft-excel-icon.png" alt="Excel" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/tableau-icon.png" alt="Tableau" width="50" height="50" />
-
+-->
 </div>
 
 <br/>
 <hr/>
 
+<!-- Footer Message -->
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&color=FF5733&lines=Thank+You+for+visiting+my+GitHub+Profile!+🎉;+Looking+forward+to+potential+collaborations!+🤝;+Have+a+great+day!+😊" />
   </h1>
-
 </div>
-
