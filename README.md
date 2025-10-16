@@ -77,14 +77,6 @@
 <!--
 <img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />
 -->
-<!-- 
-    <img src="./Icons/html.png" alt="HTML" width="100" height="100" />
-    <img src="./Icons/css.png" alt="CSS" width="100" height="100" />
-    <img src="./Icons/js.png" alt="JavaScript" width="100" height="100" /> 
-    <img src="./Icons/nodejs.png" alt="Node.js" width="100" height="100" />
-    <img src="./assets/git.png" alt="Git" width="100" height="100" />
-    <img src="./assets/docker.png" alt="Docker" width="100" height="100" />
---> 
 <!--
    <img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />&nbsp;&nbsp;
     <img src="./Icons/visual-studio-code-icon.png" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;
