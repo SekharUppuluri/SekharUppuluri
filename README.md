@@ -77,15 +77,6 @@
 <!--
 <img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />
 -->
-<!--
-   <img src="./Icons/python-icon.png" alt="Python" width="50" height="50" />&nbsp;&nbsp;
-    <img src="./Icons/visual-studio-code-icon.png" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;
-    <img src="./Icons/mysql-icon.png" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
-    <img src="./Icons/postgresql-icon.png" alt="postgresql" width="50" height="50" />&nbsp;&nbsp;
-    <img src="./Icons/power-bi-icon.png" alt="Power BI" width="50" height="50" />&nbsp;&nbsp;
-    <img src="./Icons/microsoft-excel-icon.png" alt="Excel" width="50" height="50" />&nbsp;&nbsp;
-    <img src="./Icons/tableau-icon.png" alt="Tableau" width="50" height="50" />
--->
 </div>
 
 <br/>
